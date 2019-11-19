@@ -50,7 +50,7 @@
 
 | 編號 | Cloud Platform |        說明        |
 |:----:|:----------:|:------------------:|
-|  1  |    AWS S3   |  存放產品照片 |
+|  1  |    AWS S3 / Imgur |  存放產品照片 |
 |  2  |   AWS EC2  |  架設 Node-Red |
 |  3  |   Heroku  |  部署 ajashop 系統 |
 
