@@ -73,7 +73,7 @@
 |  8  |   Cloudflare  | CDN、DNS 與 https |
 
 * 特別功能
-  * Cron job
+  * Cron Job
   
 * 補充說明
   * Swagger
