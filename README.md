@@ -39,7 +39,7 @@
 * Wireframe
   * 待補充 ( 使用的軟體 )
   
-## 開發階段與分工 
+## 規格範圍、開發順序與時程規劃
 * 產品規格明確範圍與定義
   * https://github.com/ArcherHuang/e-commerce/blob/master/project-intro.md#3-%E5%B0%88%E6%A1%88%E6%9C%80%E7%B5%82%E7%9A%84%E6%A0%B8%E5%BF%83-user-story
 * 如何決定產品開發的優先順序？哪個功能要先開發？哪些功能是需要合併開發的？
