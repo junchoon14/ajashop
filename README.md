@@ -25,12 +25,13 @@
 ## 開發流程
 ![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___2_01_02-1574143274782.png)
 
-## 專案管理工具
+## 專案管理與流程繪製工具
 * Google 試算表
 * GitHub Project
   ![](https://oranwind.s3.amazonaws.com/2019/Nov/1_24g7O7hLYotolsIDtR9fuA-1574142315609.png)
+* lucidchart
+  https://www.lucidchart.com/documents/edit/8d943dc1-de3f-4c8e-a2bf-d68669fbaa69/YGcM5DNywbTK?shared=true
   
-
 ## 開發階段與分工 
 * 產品規格明確範圍與定義
   * 待補充
