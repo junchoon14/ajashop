@@ -132,7 +132,6 @@
   * 撰寫自動化測試程式與自動化部署至 Public Cloud Platform ( AWS or Azure )
   * 使用 Public Cloud Platform 的 MQ
   * 前後端分離
-  * API 改以 Lambda 方式實作
   * 寄信功能改用 AWS
   * 產品照片皆傳到 AWS
   * 加強使用者認證功能
