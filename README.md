@@ -72,6 +72,9 @@
 |  7  |   藍新金流  | 國內金流 |
 |  8  |   Cloudflare  | CDN、DNS 與 https |
 
+* 特別功能
+  * Cron job
+  
 * 補充說明
   * Swagger
     ![](https://oranwind.s3.amazonaws.com/2019/Nov/1_af0sASMU75aaV5AkRmJ9HA-1574142401713.png)
