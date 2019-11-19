@@ -74,7 +74,7 @@
   * Redis
     ![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___1_49_01-1574142553916.png)
     
-  * Node-Red [Issue](https://github.com/ArcherHuang/e-commerce/issues/218)
+  * Node-Red [( Issue )](https://github.com/ArcherHuang/e-commerce/issues/218)
     ![](https://oranwind.s3.amazonaws.com/2019/Nov/1_RyWCsGqAOXS42RPy6vnMAA-1574142582374.png)
     ![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_08___1_46_56-1573192035760.png)
     
