@@ -97,7 +97,7 @@
 
 ## Demo
 * 開發者功能
-  * Swagger
+  * [Swagger](https://ajashop.co/api-docs/)
 * 使用者功能
   * ① 忘記密碼
   * ② Stripe
