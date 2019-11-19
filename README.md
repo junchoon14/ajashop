@@ -14,7 +14,7 @@
 
 
 ## 開發流程
-![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___1_59_43-1574143204669.png)
+![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___2_01_02-1574143274782.png)
 
 ## 專案管理工具
 * Google 試算表
