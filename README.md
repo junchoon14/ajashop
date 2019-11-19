@@ -67,7 +67,7 @@
 |  2  |   Mailgun  |      寄送 email      |
 |  3  |   AddThis  |    Share Facebook Button    |
 |  4  |   Swagger  | API 說明與測試環境 |
-|  5  |   Node-Red  | Message Queue |
+|  5  |   Node-Red  | Flow-Based Programming (FBP) & Message Queue |
 |  6  |   Stripe  | 國外金流 |
 |  7  |   藍新金流  | 國內金流 |
 |  8  |   Cloudflare  | CDN、DNS 與 https |
