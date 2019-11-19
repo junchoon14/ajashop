@@ -98,7 +98,7 @@
 ## Demo
 * 開發者功能
   * [Swagger](https://ajashop.co/api-docs/)
-    * Admin 使用者登入
+    * Admin 管理者登入
     * 取得產品分類
 * 使用者功能
   * ① 忘記密碼
