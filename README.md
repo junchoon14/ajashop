@@ -44,6 +44,8 @@
   * https://github.com/ArcherHuang/e-commerce/blob/master/project-intro.md#3-%E5%B0%88%E6%A1%88%E6%9C%80%E7%B5%82%E7%9A%84%E6%A0%B8%E5%BF%83-user-story
 * 如何決定產品開發的優先順序？哪個功能要先開發？哪些功能是需要合併開發的？
   * 待補充
+* 時程規劃
+  * Ref AJA -  畢業專案簡報 Page 7
   
 ## 系統亮點 ( 第三方 API 和工具應用 )
 * 雲端平台
