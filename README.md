@@ -28,7 +28,7 @@
   * 待補充
 
 ## 開發流程
-![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___2_01_02-1574143274782.png)
+![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___2_32_28-1574145171619.png)
 
 ## 專案管理與流程繪製工具
 * Google 試算表
