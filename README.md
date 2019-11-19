@@ -14,7 +14,7 @@
 
 
 ## 開發流程
-![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___1_29_09-1574141417771.png)
+![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___1_53_33-1574142825407.png)
 
 
 ## 專案管理工具
