@@ -45,7 +45,7 @@
 * 如何決定產品開發的優先順序？哪個功能要先開發？哪些功能是需要合併開發的？
   * 待補充
 * 時程規劃
-  * Ref AJA -  畢業專案簡報 Page 7
+  * Ref [AJA -  畢業專案簡報 Page 7](https://docs.google.com/presentation/d/1eEFugzsHLU2zndnr_4QGcI4YsZLs-XfPL38dQUcSa2Q/edit?folder=1RGHRIP7m1JHTc-bpsIt2flYp63h0ahQS#slide=id.g78f9a65bac_0_354)
   ![](https://oranwind.s3.amazonaws.com/2019/Nov/_____2019_11_19___3_48_43-1574149747189.png)
   
 ## 系統亮點 ( 第三方 API 和工具應用 )
