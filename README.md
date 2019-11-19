@@ -100,6 +100,17 @@
 ## 開發畢業專案時最享受或挑戰的部分
 * 待補充
 
+## 系統的未來發展
+* Archer
+  * 撰寫自動化測試程式與自動化部署至 Public Cloud Platform ( AWS or Azure )
+  * 使用 Public Cloud Platform 的 MQ
+  * 前後端分離
+  * API 改以 Lambda 方式實作
+* Jacs
+  * 待補充
+* Alvis  
+  * 待補充
+  
 ---
 * Product Objectives
   * 想解決的核心問題究竟是什麼？
