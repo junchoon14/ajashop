@@ -15,9 +15,9 @@
 * Alvis
   * 工作型態與領域
     * 全職工作
-    * 領域待補充
+    * 領域 產品設計，機械設計
   * 興趣
-    * 待補充
+    * 電影，料理，瑜珈，maker
   
 * ㊟ AJA 代表小組成員三個人的英文名字字首組合而成，故取名為 ajashop
 
@@ -71,6 +71,15 @@
 |  6  |   Stripe  | 國外金流 |
 |  7  |   藍新金流  | 國內金流 |
 |  8  |   Cloudflare  | CDN、DNS 與 https |
+
+* 前端套件
+  * Bootstrap
+  * animate.css
+    https://daneden.github.io/animate.css/
+  * owl-carousel
+    https://owlcarousel2.github.io/OwlCarousel2/
+  * POPPER.JS
+    https://popper.js.org/index.html#example10
 
 * 特別功能
   * Cron Job
@@ -128,8 +137,13 @@
 * Jacs
   * 待補充
 * Alvis  
-  * 待補充
-
+  * 最享受的部分
+    * 專案從無到有，開發的過程
+  * 最挑戰的部分
+    * 在被google大神遺棄下，一步一步刻下各個功能。
+  * 最值得做的部分
+    * 每個步驟，每個過程，每項失敗，都是值得的部分。
+  
 ## 系統的未來發展
 * Archer
   * 撰寫自動化測試程式與自動化部署至 Public Cloud Platform ( AWS or Azure )
@@ -141,7 +155,8 @@
 * Jacs
   * 待補充
 * Alvis  
-  * 待補充
+  * 前期的前後端結合，方便後端測試系統穩定度，再來帶入vue框架，實行前後端分離，完整實現跨平台。
+  * 細節修改，更貼近使用者的UI，更吸引消費者的眼光。  
   
 ---
 * Product Objectives
